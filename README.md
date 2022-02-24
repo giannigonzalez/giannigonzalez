@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @giannigonzalez.
+- 👀 I’m interested in dependency work.
+- 🌱 I’m currently learning PHP, MySQL, Laravel.
+- 💞️ I’m looking to collaborate on any interesting project.
+- 📫 How to reach me giannigonzalez@hotmail.com.
